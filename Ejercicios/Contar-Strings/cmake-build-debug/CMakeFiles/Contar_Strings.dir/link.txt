@@ -1,0 +1,3 @@
+C:\Users\rlope\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\Contar_Strings.dir/objects.a
+C:\Users\rlope\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\Contar_Strings.dir/objects.a @CMakeFiles\Contar_Strings.dir\objects1.rsp
+C:\Users\rlope\AppData\Local\Programs\CLion\bin\mingw\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\Contar_Strings.dir/objects.a -Wl,--no-whole-archive -o Contar_Strings.exe -Wl,--out-implib,libContar_Strings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Contar_Strings.dir\linkLibs.rsp

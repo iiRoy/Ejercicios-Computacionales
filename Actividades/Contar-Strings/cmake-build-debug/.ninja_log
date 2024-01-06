@@ -1,0 +1,23 @@
+# ninja log v5
+1	176	7260835988422750	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+198	441	7260835990994559	Contar_Strings.exe	53391e7da5ab0fe2
+4	160	7260840670202086	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+162	397	7260840672477956	Contar_Strings.exe	53391e7da5ab0fe2
+3	146	7260840859499827	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+149	355	7260840861514429	Contar_Strings.exe	53391e7da5ab0fe2
+3	153	7260842831825913	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+155	369	7260842833905907	Contar_Strings.exe	53391e7da5ab0fe2
+3	155	7260842976261853	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+157	369	7260842978332306	Contar_Strings.exe	53391e7da5ab0fe2
+3	416	7261448845753655	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+417	731	7261448848858193	Contar_Strings.exe	53391e7da5ab0fe2
+2	86	7261449281036834	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+87	198	7261449282106534	Contar_Strings.exe	53391e7da5ab0fe2
+2	85	7261449438098627	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+86	197	7261449439176897	Contar_Strings.exe	53391e7da5ab0fe2
+2	92	7261450113653704	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+93	229	7261450114988743	Contar_Strings.exe	53391e7da5ab0fe2
+2	101	7261450216882067	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+102	210	7261450217936279	Contar_Strings.exe	53391e7da5ab0fe2
+2	83	7261451436532383	CMakeFiles/Contar_Strings.dir/main.c.obj	7560773b5f4c0c88
+84	205	7261451437709379	Contar_Strings.exe	53391e7da5ab0fe2
